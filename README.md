@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wangk2
+- 👋 Hi, I’m WangK2
 - 👀 I’m interested in NLP.
 - 🌱 I’m currently learning Large Language Model and GPT series.
 - 💞️ I’m looking to collaborate on interesting projects.
