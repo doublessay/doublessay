@@ -1,8 +1,7 @@
-- 👋 Hi, I’m WangK2
-- 👀 I’m interested in NLP.
-- 🌱 I’m currently learning Large Language Model and GPT series.
-- 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me...
+- Hi, I’m WangK2.
+- I’m interested in Data Mining and NLP.
+- I’m currently learning Large Language Model.
+- You can contact me via email.
 
 <!---
 doublessay/doublessay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
